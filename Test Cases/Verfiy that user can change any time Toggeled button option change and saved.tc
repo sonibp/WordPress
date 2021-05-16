@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verfiy that user can change any time Toggeled button option change and saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70cca511-5f82-4752-a264-0f047ba7dd7b</testCaseGuid>
+</TestCaseEntity>

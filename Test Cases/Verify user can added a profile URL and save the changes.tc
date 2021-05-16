@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user can added a profile URL and save the changes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ab6bf5a-d3be-419a-b5a5-854d684a01d5</testCaseGuid>
+</TestCaseEntity>
